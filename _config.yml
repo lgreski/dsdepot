@@ -1,0 +1,11 @@
+# basic options
+title: Data Science Depot
+author: Len Greski
+email: len@greskilabs.com
+description: Len Greski's blog about data science
+twitter_username: lgreski
+github_username: lgreski
+
+# build settings
+markdown: kramdown
+theme: jekyll-theme-slate
