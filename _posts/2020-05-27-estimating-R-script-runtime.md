@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Estimating Runtime for an R script
+tag: R-bloggers
 ---
 
 # Estimating the runtime of an R script
