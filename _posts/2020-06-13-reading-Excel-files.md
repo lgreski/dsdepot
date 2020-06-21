@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reading Excel files in R
+tag: R-bloggers
 ---
 
 ## Reading Excel Files: A comparison of R packages
