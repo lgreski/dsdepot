@@ -75,7 +75,7 @@ The requirement that all R functions have pointers to their parent environments 
 
 Because environments in R are hierarchical, I have found it helpful to understand their relationships through pictures. Here is an illustration of the environments for the functions defined in Johns Hopking University *R Programming* course's lexical scoping lecture, slide 12.
 
-<img src="/assets/img/blog-lexicalScopingIllustration.png">
+<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/blog-lexicalScopingIllustration.png">
 
 The diagram includes three environments:
 
@@ -87,11 +87,11 @@ Therefore, `f(3)` returns 34.
 
 We can confirm the accuracy of the diagram by inspecting the Global Environment with the Environment Viewer in RStudio.
 
-<img src="/assets/img/blog-lexicalScoping02.png">
+<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/blog-lexicalScoping02.png">
 
 Clicking on one of the functions will display its code in the code editor pane of RStudio, allowing us to see the objects defined within the function.
 
-<img src="/assets/img/blog-lexicalScoping03.png">
+<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/blog-lexicalScoping03.png">
 
 # Appendix: what is a closure?
 
