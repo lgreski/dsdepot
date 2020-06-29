@@ -17,6 +17,6 @@ Prior to joining Hewlett-Packard, Leonard led a variety of eCommerce initiatives
 
 Leonard started his career in market research at Information Resources Inc., developing statistical and artificial intelligence models to predict consumer behavior. At IRI, Len developed the statistical models supporting the BehaviorScan Fastrac new product introduction service, worked on a neural network that supported the InfoScan product, and developed a machine learning algorithm that uncovered a large CPG manufacturer's secret price test that was being conducted in several markets in the Western United States.
 
- ## Opinions Expressed On Data Science Depot
+## Opinions Expressed On Data Science Depot
 
- Content on Data Science Depot is a personal blog, and as such any opinions expressed on this site belong solely to me, and do not represent the opinions of the people, institutions, or organizations that I am or have been associated with in a professional or personal capacity, unless otherwise stated.
+Content on Data Science Depot is a personal blog, and as such any opinions expressed on this site belong solely to me, and do not represent the opinions of the people, institutions, or organizations that I am or have been associated with in a professional or personal capacity, unless otherwise stated.
