@@ -27,6 +27,6 @@ In the area of data science, Len has served as Technology Lead for [ATLytics.org
 
 <a href="https://stackoverflow.com/users/8471931/len-greski"><img src="https://stackoverflow.com/users/flair/8471931.png" width="208" height="58" alt="profile for Len Greski at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Len Greski at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-## Opinions Expressed On Data Science Depot
+#### Opinions Expressed On Data Science Depot
 
 Content on Data Science Depot is a personal blog, and as such any opinions expressed on this site belong solely to me, and do not represent the opinions of the people, institutions, or organizations that I am or have been associated with in a professional or personal capacity, unless otherwise stated.
