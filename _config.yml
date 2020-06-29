@@ -9,3 +9,9 @@ github_username: lgreski
 # build settings
 markdown: kramdown
 theme: minima
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
