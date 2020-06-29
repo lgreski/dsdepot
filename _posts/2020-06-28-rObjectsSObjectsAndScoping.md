@@ -1,7 +1,7 @@
 ---
 layout: post
 title: R Objects, S Objects, and Lexical Scoping
-tags: ["R", "object-orientation"]
+tags: R-bloggers lexical-scoping object-orientation
 ---
 
 # S Objects, R Objects, and Lexical Scoping
