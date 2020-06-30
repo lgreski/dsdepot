@@ -3,9 +3,8 @@ layout: page
 title: About
 ---
 
-### @ work
 
-<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lg-photo.jpg" align="left" hspace="50" vspace="50" /> Leonard Greski currently serves as Vice President, Technology at Travelport, the partner of choice for travel's game changers.
+<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lg-photo.jpg" align="left" hspace="10" /> Leonard Greski currently serves as Vice President, Technology at Travelport, the partner of choice for travel's game changers.
 
 Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests per day, with peak throughput as high as 30,000 requests per second.
 
@@ -17,7 +16,7 @@ Prior to joining Hewlett-Packard, Leonard led a variety of eCommerce initiatives
 
 Leonard started his career in market research at Information Resources Inc., developing statistical and artificial intelligence models to predict consumer behavior. At IRI, Len developed the statistical models supporting the BehaviorScan Fastrac new product introduction service, worked on a neural network that supported the InfoScan product, and developed a machine learning algorithm that uncovered a large CPG manufacturer's secret price test that was being conducted in several markets in the Western United States.
 
-### In the Community
+### Serving in the Community
 
 Len has supported a number of community service projects, ranging from leading a Junior Achievement business startup course, to serving with [Love Atlanta](https://loveatlanta.com), and the [Roswell, GA Rotary Club](https://roswellrotary.club).
 
