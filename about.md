@@ -20,7 +20,7 @@ Leonard started his career in market research at Information Resources Inc., dev
 
 Len has supported a number of community service projects, ranging from leading a Junior Achievement business startup course to serving with [Love Atlanta](https://loveatlanta.com), and the [Roswell, GA Rotary Club](https://roswellrotary.club).
 
-In the area of data science, Len has served as Technology Lead for [ATLytics.org](https://atlytics.org) an Atlanta-based organization that connects non-profit organizations with data science resources, supporting the *Improving Mental Health* initiative. He has also served since 2015 as a Community Mentor in the [Johns Hopkins University Data Science Specialization](http://bit.ly/2czgkI7) offered via Coursera.org, and is active answering questions about R and SAS on [Stackoverflow](https://stackoverflow.com/questions/tagged/r).
+In the area of data science, Len has served as Technology Lead for [ATLytiCS.org](https://atlytics.org) an Atlanta-based organization that connects non-profit organizations with data science resources, supporting the *Improving Mental Health* initiative. He has also served since 2015 as a Community Mentor in the [Johns Hopkins University Data Science Specialization](http://bit.ly/2czgkI7) offered via Coursera.org, and is active answering questions about R and SAS on [Stackoverflow](https://stackoverflow.com/questions/tagged/r).
 
 <a href="https://stackoverflow.com/users/8471931/len-greski"><img src="https://stackoverflow.com/users/flair/8471931.png?theme=clean" width="208" height="58" alt="profile for Len Greski at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Len Greski at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
