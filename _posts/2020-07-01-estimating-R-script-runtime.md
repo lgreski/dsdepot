@@ -181,7 +181,7 @@ Our penultimate step is to generate predictions for both models, combine them in
     6         8000     6.4e+07  1043.9125     1904.4181
     7         9000     8.1e+07  1184.1704     2417.9139
 
-#### Conclusions
+### Conclusions
 
 First, as we added data at larger numbers of observations in the `corr.test()`, the linear prediction at 9,000 observations more than doubled from 491 seconds to 1,184 seconds. As expected, adding data to the model helped improve its accuracy. 
 
@@ -208,7 +208,7 @@ In the back and forth comments posted on Stack as I developed the models, a ques
 
 My tests, as well as performance analyses I have done with R functions that support multithreading (e.g. [Improving Performance of caret::train() with Random Forest](http://bit.ly/2bYtutG)) indicate that in practice CPUs with similar speed ratings but fewer cores are slower than those with more cores. 
 
-In this specific situation where we analyzed the performance of `core.test()`, I ran a second series of tests on an HP Spectre x-360 with an Intel i7-U6500 CPU that also runs at 2.5Ghz. Its processing time degrades faster than that of the Intel i7-4870HQ CPU (also at 2.5Ghz), as illustrated by the following table. 
+I ran a second series of tests on an HP Spectre x-360 with an Intel i7-U6500 CPU that also runs at 2.5Ghz, but only has 2 cores. Its processing time degrades faster than that of the Intel i7-4870HQ CPU (4 cores / 2.5Ghz), as illustrated by the following table. 
 
 
 
