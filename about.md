@@ -6,7 +6,7 @@ title: About
 
 <img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lg-photo.jpg" align="left" hspace="10" /> Leonard Greski currently serves as Vice President, Technology at Travelport, the partner of choice for travel's game changers.
 
-Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests per day, with peak throughput as high as 30,000 requests per second.
+Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests per day, processing more than 1 terabyte of data daily. 
 
 Leonard was previously Director, eCommerce Transformation at Hewlett-Packard, where he led a global team that delivered a graphically rich, easy-to-use eCommerce experience for U.S. consumers in half the time of a typical eCommerce program. The new HP consumer online store generated 19.3% year over year sales growth its first Cyber Monday in production.
 
@@ -15,6 +15,12 @@ Len also led delivery of the digital experience for HP’s Make it Matter brandi
 Prior to joining Hewlett-Packard, Leonard led a variety of eCommerce initiatives at W.W. Grainger. His leadership helped grainger.com achieve the \#15 ranking in the Internet Retailer 500 in 2011, and the \#76 ranking in the Mobile Retailer 400 within 12 months of launching mobile commerce. Len led key product initiatives and designed the e-commerce architecture that powered Grainger e-commerce growth from 7% to 71% of Grainger's total business.
 
 Leonard started his career in market research at Information Resources Inc., developing statistical and artificial intelligence models to predict consumer behavior. At IRI, Len developed the statistical models supporting the BehaviorScan Fastrac new product introduction service, worked on a neural network that was embedded within the InfoScan syndicated tracking service, and developed a machine learning algorithm that uncovered a large consumer package goods manufacturer's secret price test that was being conducted in several markets in the western United States.
+
+### Academia
+
+Len received his introduction to data science as an undergraduate research assistant on a National Science Foundation project to study political contributions to Illinois legislative candidates that supported the book [The Party Network: the robust organization of Illinois Republicans](https://www.amazon.com/Party-Network-Organization-Illinois-Republicans/dp/0299124541/) by Mildred A. Schwartz. 
+
+As a graduate student at the University of Illinois at Chicago Len studied statistical graphics, exploratory data analysis, and multivariate analysis under the tutelege of [Leland  Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson), founder of [SYSTAT](https://www.cs.uic.edu/~wilkinson/SYSTAT/systat.html) and author of the book [The Grammar of Graphics](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html). 
 
 ### Serving in the Community
 
