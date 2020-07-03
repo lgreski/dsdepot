@@ -6,7 +6,7 @@ title: About
 
 <img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lg-photo.jpg" align="left" hspace="10" /> Leonard Greski currently serves as Vice President, Technology at Travelport, the partner of choice for travel's game changers.
 
-Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests per day, processing more than 1 terabyte of data daily. 
+Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests and more than 1 terabyte of data daily. 
 
 Leonard was previously Director, eCommerce Transformation at Hewlett-Packard, where he led a global team that delivered a graphically rich, easy-to-use eCommerce experience for U.S. consumers in half the time of a typical eCommerce program. The new HP consumer online store generated 19.3% year over year sales growth its first Cyber Monday in production.
 
