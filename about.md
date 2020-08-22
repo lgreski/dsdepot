@@ -4,9 +4,9 @@ title: About
 ---
 
 
-<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lgreski-photo.jpg" align="left" hspace="10" /> Leonard Greski currently serves as Vice President, Technology at Travelport, the partner of choice for travel's game changers.
+<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lgreski-photo.jpg" align="left" hspace="10" /> Leonard Greski currently serves as Vice President, Technology at Travelport, the partner of choice for travel's game changers.  
 
-Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests and more than 1 terabyte of data daily. 
+Len joined Travelport in December 2015 and currently leads Solution Engineering and Platform Architecture within Global Technology Services. His teams are responsible for the engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests and more than 1 terabyte of data daily.
 
 Leonard was previously Director, eCommerce Transformation at Hewlett-Packard, where he led a global team that delivered a graphically rich, easy-to-use eCommerce experience for U.S. consumers in half the time of a typical eCommerce program. The new HP consumer online store generated 19.3% year over year sales growth its first Cyber Monday in production.
 
@@ -20,7 +20,7 @@ Leonard started his career in market research at Information Resources Inc., dev
 
 Len received his introduction to data science as an undergraduate research assistant on a National Science Foundation project to study political contributions to Illinois legislative candidates that supported the book [The Party Network: the robust organization of Illinois Republicans](https://www.amazon.com/Party-Network-Organization-Illinois-Republicans/dp/0299124541/) by Mildred A. Schwartz.  
 
-As a graduate student at the University of Illinois at Chicago Len studied statistical graphics, exploratory data analysis, and multivariate analysis under the tutelege of [Leland  Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson), founder of [SYSTAT](https://www.cs.uic.edu/~wilkinson/SYSTAT/systat.html) and author of the book [The Grammar of Graphics](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html). He also served as a teaching assistant for the graduate level inferential statistics course in the department of Sociology. 
+As a graduate student at the University of Illinois at Chicago Len studied statistical graphics, exploratory data analysis, and multivariate analysis under the tutelege of [Leland  Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson), founder of [SYSTAT](https://www.cs.uic.edu/~wilkinson/SYSTAT/systat.html) and author of the book [The Grammar of Graphics](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html). He also served as a teaching assistant for the graduate level inferential statistics course in the department of Sociology.
 
 ### Serving in the Community
 
