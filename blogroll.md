@@ -5,6 +5,7 @@ title: Blogroll
 
 [Garrick Aden-Buie](https://www.garrickadenbuie.com/blog/)
 [Geohealth blog](http://www.paulamoraga.com/blog/)  
+[Melinda Higgins, Ph.D.](https://melindahiggins.netlify.app/#posts)
 [Programming with R](https://www.programmingwithr.com)
 [R-bloggers](https://www.r-bloggers.com)  
 [R-hub](https://bit.ly/2QkrK2Y)
