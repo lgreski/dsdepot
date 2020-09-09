@@ -1,3 +1,9 @@
+---
+layout: post
+title: Plotting multiple time series in a single plot
+tag: R-bloggers
+---
+
 ## Plotting multiple time series in a single plot
 
 Recently a person posed a question on [Stackoverflow](https://stackoverflow.com/questions/63558161/multiple-time-series-plots-for-several-stocks-in-r-returns-an-error) about how to combine multiple time series into a single plot within the `ggplot2` package. The question referenced another [Stackoverflow answer](https://stackoverflow.com/questions/7820789/r-ggplot2-plot-several-time-series-in-a-plot) for a similar type of question, but the person who posted the new question wasn't able to apply the other answer in a way that produced the desired chart.
