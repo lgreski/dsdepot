@@ -75,8 +75,7 @@ Second, we use `rowSums()` to sum the trials to counts of successes, and divide 
          names(res1) <- paste0("n=",n)
          res1
     }
-
-f3(n=c(10,15,20,25,30,50,100,150,200),probs = c(0.01,0.4, 0.8))
+    f3(n=c(10,15,20,25,30,50,100,150,200),probs = c(0.01,0.4, 0.8))
 
 ...and the output:
 
