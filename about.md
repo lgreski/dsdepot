@@ -4,7 +4,7 @@ title: About
 ---
 
 
-<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/lgreski-photo.jpg" align="left" hspace="10" /> Leonard Greski currently leads the Architecture practice at LeadingAgile, the leader in helping large companies increase economic value through agile transformation. In addition to leading client engagements, Len is developing new products focused on assessing large organizations as they move towards business agility. 
+<img src="https://raw.githubusercontent.com/lgreski/dsdepot/master/assets/img/casualHeadshot.jpg" align="left" hspace="10" /> Leonard Greski currently leads the Architecture practice at LeadingAgile, the leader in helping large companies increase economic value through agile transformation. In addition to leading client engagements, Len is developing new products focused on assessing large organizations as they move towards business agility. 
 
 Prior to LeadingAgile Len was Vice President, Technology at Travelport, the partner of choice for travel's game changers. He led engineering delivery of Travelport’s supplier connections, middleware services, and the cloud-based platform for Travelport's next generation application programming interface products based on the [Open Travel Alliance 2.0 specification](https://opentravel.org). The products developed by Len's team process hundreds of millions of requests and more than 1 terabyte of data daily. At Travelport Len created a data science team that embedded machine learning algorithms into Travelport products, improving both customer experience and the cost to serve our customers. 
 
